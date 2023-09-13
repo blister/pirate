@@ -39,11 +39,15 @@ the future of Web Development.
 I was still supporting IE5!!! It was a crazy time, and I miss those early years.
 
 What follows below is the original (final) README file of the pirate! JS library,
-last updated in late 2006. I found this and was really surprised at how well
-I loved what I'd written. Had I not tried to be funny and named everything
-"pirate-themed", there were some really good bits and pieces in here that kind
-of resemble the way things work today with node/npm/bun and all the other
-bits and pieces we've cobbled together over the past 15 years.
+last updated in late 2006. When I found this project on sourceforce,
+I was surprised at how well the code I'd written stood up against modern
+JS libraries.
+
+Had I not tried to be funny and named everything "pirate-themed", there were
+some interesting ideas and concepts in this library that would have been a lot
+of fun to explore, and some parts that seem prescient with how the ecosytem
+has evolved. There are lines of code in here that if you squint, almost exactly
+match up how we have to build modules for npm.
 
 I didn't want to lose this code again, so... to GitHub it goes! 
 
