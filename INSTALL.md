@@ -1,6 +1,5 @@
-pirate! (0.2.5)
+# pirate! (0.2.5)
 a Library by Eric Ryan Harrison
-http://pirate-js.sourceforge.net
 
 INSTALLATION INSTRUCTIONS
 -------------------------

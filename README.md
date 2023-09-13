@@ -51,17 +51,17 @@ Avast, ye dogs!
 
 ------------------------------------------------------------------
 
-pirate! (0.2.5)
-a JavaScript Library by Eric Ryan Harrison
-https://github.com/blister/pirate
+## pirate! (0.2.5)
+- a JavaScript Library by Eric Ryan Harrison
+- https://github.com/blister/pirate
 
-- What is pirate!?
-- What's with the crazed versioning?
-- Who the hell is Eric Ryan Harrison?
-- I'll kill you!
+1. What is pirate!?
+2. What's with the crazed versioning?
+3. Who the hell is Eric Ryan Harrison?
+4. I'll kill you!
 
 ------------------------
-    What is pirate!?
+### What is pirate!?
 ------------------------
 pirate! is the product of my frustration at the JavaScript development 
 community. For years, I avoided JavaScript like the plague because of 
@@ -101,7 +101,7 @@ So, without further ado, I give you pirate! The JavaScript library for people
 who are ticked off about how boring programming is becoming.
 
 -------------------------------------------
-    Who the hell is Eric Ryan Harrison?    
+### Who the hell is Eric Ryan Harrison?    
 -------------------------------------------
 I'm just a guy who writes code for a living. Nobody special. Heck, to be 
 honest with you I'm not even that good at it. I just like it. I also like 
@@ -135,7 +135,7 @@ Just be careful...
 Remember: The cat has very sharp claws and does NOT play nicely.
 
 ----------------------
-    I'll kill you!
+### I'll kill you!
 ----------------------
 Now THAT is what I like to hear! That's the pirate! spirit! Take no 
 prisoners! Leave no DOM pointer referenced! Argg!!! Yeah, OK. You don't 
@@ -143,13 +143,13 @@ have to like me or what I do. I'm just a goofy guy trying to waste time
 until I get out of the Army.
 
 ----------------------
-    SECRET SECTION
+### SECRET SECTION
 ----------------------
 This is the secret section of the README file in which I ramble on about 
 whatever I want.
 
 First: thanks are in order to the people and things that matter most to me.
 
-[REDACTED] The rest of this section was filled with ultra-cringey ramblings
+[**REDACTED**] The rest of this section was filled with ultra-cringey ramblings
 from 2006. These days, I at least have the good sense to keep the cringe
-inside my head where it belongs. :D -erh 2023
+inside my head where it belongs. :D *-erh 2023*
