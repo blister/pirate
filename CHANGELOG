@@ -1,0 +1,30 @@
+pirate! Changelog
+
+0.2.5 07 August 2006
+	Eric Ryan Harrison (blister@gmail.com)
+
+[FIXES]
+
+[ADDITIONS]
+	- Added two Pirate Notifications to Pirate.Ship for Ship.Load and
+	Ship.Complete
+	- Added the custom pirate! event system (Pirate.Watch && Pirate.Notify)
+
+[NOTES]
+	- I still want to improve the Notification/Watch system. I think that
+	a custom event system can add a lot of power and flexibility to
+	pirate! and I want to play with it a lot more when I get a chance.
+
+	- IMPORTANT: I removed all of the global function handles that
+	pirate.js was providing. The only one that still exists is Try because
+	I don't want to have to hack a bunch of other code. Just know that
+	they're gone. I think that in the future, only Ships should do
+	anything to the global scope.
+
+	- I stopped using the crazy named versioning that I had been trying
+	out. I like the idea, but it got to be too confusing, even for me, so
+	I can only imagine how everyone else was feeling. I think it's a good
+	idea and may still have some sort of application in the CS world, but
+	not really in this project. I gave it a shot. 
+
+	
